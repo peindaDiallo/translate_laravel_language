@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+    'create'=>'Create Customer',
+    'delete'=>'Delete',
+    'update'=>'Update',
+    'show'=>'Show',
+    'actions' => 'Actions',
+    'list' => 'Customers list',
+    'edit'=>'Edit',
+    'surname' => 'Surename',
+    'forename' => 'Forename',
+    'id_countries'=> 'Countries',
+    'email'=> 'email',
+    'streetaddress'=> 'street address',
+    'city'=> 'City',
+    'province'=> 'Province',
+    'region'=> 'Region',
+    'zipcode'=>'Zipcode',
+    'phone'=>'Phone',
+    'iscompany'=>'Iscompany',
+    'billingname'=>'Billing Name',
+    'billingaddress'=> 'Billing Address',
+    'billingcity'=>'Billing City',
+    'billingprovince'=>'Billing Province',
+    'billingregion'=>'Billing Region',
+    'billingcountry'=>'Billing Country',
+    'billingzipcode'=>'Billing Zip code',
+    'billingphone'=>'Billing Phone',
+    'taxcode'=> 'Taxe code',
+    'vatcode'=> 'vat Code',
+    'customer_detail'=>'Customer Details',
+    'countryname'=> 'Countrie',
+    'create_at'=> 'Date',
+
+];

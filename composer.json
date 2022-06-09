@@ -1,0 +1,17 @@
+{
+    "name": "mino/translate",
+    "autoload": {
+        "psr-4": {
+            "Mino\\Translate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roland Loesslein",
+            "email": "p.diallo@iatf.it"
+        }
+    ],
+    "require": {
+        "atpro/translate_laravel_language": "^1.0"
+    }
+}
